@@ -1,0 +1,8 @@
+body {background-color:#FFFFFF;}
+
+
+
+@media only screen 
+and (max-width : 480px) {
+.navbar-brand {display:none!important;}
+}
