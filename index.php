@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <title>Brian Mutch - Home</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="description" content="page description" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>    
