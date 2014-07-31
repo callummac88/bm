@@ -4,8 +4,10 @@ body {background-color:#EBF5FF;}
 .home-col {text-align: center;}
 .home-banner {background:url('../images/banner1.jpg') no-repeat center center; background-size:cover;}
 .col-banner {background:url('../images/fork.png') no-repeat center center; background-size:cover;}
+.logo {height:60px;}
 
-
+.navbar-brand {padding:5px!important;}
+.navbar-nav {padding:5px!important;}
 @media only screen 
 and (max-width : 480px) {
 .navbar-brand {display:none!important;}
