@@ -5,6 +5,7 @@ body {background-color:#EBF5FF;}
 .home-banner {background:url('../images/banner1.jpg') no-repeat center center; background-size:cover;}
 .col-banner {background:url('../images/fork.png') no-repeat center center; background-size:cover;}
 .logo {height:60px;}
+.content {margin-top:80px;}
 
 .navbar-brand {padding:5px!important;}
 .navbar-nav {padding:5px!important;}
